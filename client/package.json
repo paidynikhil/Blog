@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy": "https://blogmern-theta.vercel.app/",
+  "proxy": "https://blog-n5al.onrender.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
